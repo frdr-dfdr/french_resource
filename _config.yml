@@ -1,6 +1,6 @@
 title: site.title # *** Update site.title in _i18n/en.yml and/or _i18n/fr.yml
-github_repo_url: "" # ***Enter resource URL (in github pages) here i.e., https://frdr-dfdr.github.io/frdr-dfdr/repo_name_in_github
-gh_edit_repository: "" # *** ENTER the github URL for your repo i.e., https://github.com/frdr-dfdr/repo_name_in_github
+github_repo_url: "https://frdr-dfdr.github.io/frdr-dfdr/french_resource" # ***Enter resource URL (in github pages) here i.e., https://frdr-dfdr.github.io/frdr-dfdr/repo_name_in_github
+gh_edit_repository: "https://github.com/frdr-dfdr/french_resource" # *** ENTER the github URL for your repo i.e., https://github.com/frdr-dfdr/repo_name_in_github
 ga_tracking: "" # *** This needs to be set up in Google Analytics once you know the website URL. Then the tracking code needs to be taken from Google Analytics and pasted here.
 
 subtitle: footer.subtitle # *** Optional message that appears in the footer. Add value to en.yml and fr.yml
@@ -12,8 +12,8 @@ nav_footer_logo_top: site.logo.top.file
 nav_footer_logo_top_href: site.logo.bottom.href
 nav_footer_logo_top_alt: site.logo.top.alt
 
-languages: ["en", "fr"] # *** Leave as is for EN/FR or EN only documents. Change to ["fr", "en"] for FR only documents.
-language_switcher: true # *** Show/Hide the language switcher button in the sidebar. Set to true for EN/FR documents and false for EN only or FR only documents.
+languages: ["fr", "en"] # *** Leave as is for EN/FR or EN only documents. Change to ["fr", "en"] for FR only documents.
+language_switcher: false # *** Show/Hide the language switcher button in the sidebar. Set to true for EN/FR documents and false for EN only or FR only documents.
 
 #  _____       _   _   _          _      _
 # | ____|   __| | (_) | |_       / \    | |__     ___   __   __   ___

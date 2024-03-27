@@ -1,6 +1,6 @@
 site:
   language: "English"
-  title: "Titre de la ressource DFDR"
+  title: "Ressource en français"
   back_to_top: "Retour en haut de page"
   toc: "Table des matières"
   logo:
@@ -23,3 +23,4 @@ search:
 pages:
   introduction: "Introduction"
   outline: "Plan"
+  first_page: "Première page"

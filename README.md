@@ -1,8 +1,8 @@
-# << ENTER RESOURCE NAME HERE >>
+# French Resource
 
-Materials for the FRDR service team resource: **<< ENTER RESOURCE NAME HERE >>**
+Materials for the FRDR service team resource: **French Resource**
 
-This repository contains resource files, as well as files used to create the [resource webpage](https://frdr-dfdr.github.io/<<enter_site_url>>) with GitHub Pages.
+This repository contains resource files, as well as files used to create the [resource webpage](https://frdr-dfdr.github.io/french_resource) with GitHub Pages.
 
 Contributions by the following individuals:
 
